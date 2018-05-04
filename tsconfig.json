@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "commonjs",
+    "outDir": "./build",
+    "removeComments": true,
+    "alwaysStrict": true,
+    "typeRoots": ["node_modules/@types", "typings/index.d.ts"]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

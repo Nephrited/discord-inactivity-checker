@@ -1,0 +1,18 @@
+{
+	"defaultSeverity": "error",
+	"extends": ["tslint-config-airbnb", "tslint-config-prettier"],
+	"jsRules": {},
+	"rules": {
+		"indent": [true, "tabs", 2],
+		"no-console": [false],
+		"no-conditional-assignment": true,
+		"no-irregular-whitespace": true,
+		"promise-function-async": true,
+		"max-classes-per-file": [true, 1],
+		"max-file-line-count": {
+			"severity": "warning",
+			"options": [400]
+		}
+	},
+	"rulesDirectory": []
+}
