@@ -1,8 +1,8 @@
 {
-	"name": "kaede-user",
+	"name": "discord-inactivity-checker",
 	"version": "1.0.0",
 	"description":
-		"Helper script designed to run commands that the bot account cannot run",
+		"Helper script designed to run inactivity checks using commands that discord bot account cannot run",
 	"main": "build/main.js",
 	"repository": "git@bitbucket.org:shift-discord/kaede-user.git",
 	"author": "Nephrited <dev@nephrited.com>",
